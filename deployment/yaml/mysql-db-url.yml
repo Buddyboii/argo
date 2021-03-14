@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mysql-db-url
+data:
+  database: kodekloud_db5
+  
