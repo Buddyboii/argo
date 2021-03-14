@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: Secret
-metadata:
-  name: mysql-user-pass
-data:
-  username: kodekloud_tim
-  password: LQfKeWWxWD

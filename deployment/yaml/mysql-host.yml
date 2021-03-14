@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: Secret
-metadata:
-  name: mysql-host
-data:
-  host: mysql-service
